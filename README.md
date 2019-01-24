@@ -28,4 +28,5 @@ Compiles a .NET Assembly that gathers information about the system. Will drop a 
   ### Usage:
   
   PS> . .\Compile-SysInfo.ps1
+  
   PS> Compile-SysInfo
