@@ -24,7 +24,7 @@ Compiles a .NET Assembly that gathers information about the system. Will drop a 
 	- PowerShell Console History
 	- Recently Accessed Documents
 	- Network Interfaces
-	- Network Connection
+	- Network Connections
   ### Usage:
   
   PS> . .\Compile-SysInfo.ps1
