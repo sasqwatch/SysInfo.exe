@@ -27,6 +27,6 @@ Compiles a .NET Assembly that gathers information about the system. Will drop a 
 	- Network Connections
   ### Usage:
   
-  PS> . .\Compile-SysInfo.ps1
+  ```PS> . .\Compile-SysInfo.ps1```
   
-  PS> Compile-SysInfo
+  ```PS> Compile-SysInfo```
